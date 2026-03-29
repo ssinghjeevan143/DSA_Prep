@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
