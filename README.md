@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1089-duplicate-zeros) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
