@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
