@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
