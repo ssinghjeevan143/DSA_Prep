@@ -170,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
