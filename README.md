@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
+| [0541-reverse-string-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
+| [0541-reverse-string-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
