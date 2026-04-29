@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
