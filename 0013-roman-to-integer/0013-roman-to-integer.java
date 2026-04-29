@@ -1,6 +1,6 @@
 class Solution {
     public int romanToInt(String s) {
-        int[]values={1000,900,500,400,100,90,50,40,10,9,5,4,3,2,1};
+       
         Map<Character, Integer>map = new HashMap<>();
         map.put('I', 1);
         map.put('V', 5);
