@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1137-n-th-tribonacci-number) |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
