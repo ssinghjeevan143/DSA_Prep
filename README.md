@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,9 +245,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
