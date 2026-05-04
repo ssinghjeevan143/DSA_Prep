@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0165-compare-version-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
