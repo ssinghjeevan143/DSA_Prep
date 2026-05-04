@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
