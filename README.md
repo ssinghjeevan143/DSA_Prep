@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
