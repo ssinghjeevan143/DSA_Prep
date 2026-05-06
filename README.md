@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0541-reverse-string-ii) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0077-combinations) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
