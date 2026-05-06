@@ -18,7 +18,7 @@ public class Solution {
 
         
         for (int i = 0; i < s.length(); i++) {
-            // add current char
+            
             window[s.charAt(i) - 'a']++;
 
           
