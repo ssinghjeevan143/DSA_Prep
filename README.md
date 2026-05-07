@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0414-third-maximum-number) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1137-n-th-tribonacci-number) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
