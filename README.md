@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0541-reverse-string-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -303,8 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
