@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
@@ -328,5 +331,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
