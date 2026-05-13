@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0796-rotate-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
