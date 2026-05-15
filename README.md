@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0069-sqrtx) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
 ## Counting
