@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
