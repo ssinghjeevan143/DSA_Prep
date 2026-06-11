@@ -3,7 +3,7 @@ class Solution {
         int[] merged = new int[m + n];
         int i = 0, j = 0, k = 0;
 
-        // Merge both arrays into merged[]
+
         while (i < m && j < n) {
             if (nums1[i] <= nums2[j]) {
                 merged[k++] = nums1[i++];
@@ -12,7 +12,7 @@ class Solution {
             }
         }
 
-        // Copy remaining elements
+        
         while (i < m) {
             merged[k++] = nums1[i++];
         }
@@ -20,7 +20,7 @@ class Solution {
             merged[k++] = nums2[j++];
         }
 
-        // Copy merged array back into nums1
+   
         for (int x = 0; x < m + n; x++) {
             nums1[x] = merged[x];
         }
