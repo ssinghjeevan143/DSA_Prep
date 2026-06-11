@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0941-valid-mountain-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
 ## Math
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
