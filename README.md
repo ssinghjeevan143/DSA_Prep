@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0066-plus-one) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
