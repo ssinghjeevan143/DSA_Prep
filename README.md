@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0409-longest-palindrome) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
