@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
