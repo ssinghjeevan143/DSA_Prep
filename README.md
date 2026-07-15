@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0043-multiply-strings) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
