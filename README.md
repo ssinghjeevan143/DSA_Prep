@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
+| [3765-complete-prime-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2427-number-of-common-factors) |
+| [3765-complete-prime-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
+| [3765-complete-prime-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/3765-complete-prime-number) |
 ## Simulation
 |  |
 | ------- |
