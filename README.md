@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0941-valid-mountain-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1137-n-th-tribonacci-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1250-check-if-it-is-a-good-array) |
