@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0380-insert-delete-getrandom-o1) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0413-arithmetic-slices) |
 | [0466-count-the-repetitions](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0466-count-the-repetitions) |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
