@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0917-reverse-only-letters) |
+| [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 ## Enumeration
 |  |
 | ------- |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
