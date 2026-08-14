@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2643-row-with-maximum-ones) |
 ## Queue
 |  |
 | ------- |
