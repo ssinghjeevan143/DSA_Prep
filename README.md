@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
+| [1207-unique-number-of-occurrences](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
