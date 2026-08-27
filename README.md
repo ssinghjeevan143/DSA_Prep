@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2643-row-with-maximum-ones) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0068-text-justification) |
+| [1920-build-array-from-permutation](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1920-build-array-from-permutation) |
 ## Backtracking
 |  |
 | ------- |
