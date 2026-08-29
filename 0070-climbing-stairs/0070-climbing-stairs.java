@@ -1,5 +1,6 @@
 class Solution {
     public int climbStairs(int n) {
+        //using iterative dp
         if (n <= 2) return n;
 
         int prev2 = 1; // f(n-2)
@@ -12,5 +13,11 @@ class Solution {
         }
 
         return prev1;
+
+
+        //using recursion;
+        // if(n == 1) return 1;
+        // if(n == 2) return 2;
+        // return climbStairs(n-1) + climbStairs(n-2);
     }
 }
