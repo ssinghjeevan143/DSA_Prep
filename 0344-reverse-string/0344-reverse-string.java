@@ -4,16 +4,13 @@ class Solution {
         reverse(s,0,s.length-1);
     }
 
-    public void reverse(char[]s,int left,int right){
-        // Base case: stop when pointers cross
-        if (left >= right) return;
+    public void reverse(char[]arr,int s,int e){
+        if(s >= e)return;
 
-        // Swap characters
-        char temp = s[left];
-        s[left] = s[right];
-        s[right] = temp;
+        char temp = arr[s];
+        arr[s] = arr[e];
+        arr[e] = temp;
 
-        // Recursive call
-        reverse(s, left + 1, right - 1);
+        reverse(arr,s+1, e-1);
     }
 }
