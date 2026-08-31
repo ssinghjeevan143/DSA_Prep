@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0707-design-linked-list) |
 ## Design
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0326-power-of-three) |
