@@ -1,6 +1,27 @@
 import java.util.HashSet;
 
 class Solution {
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        Set<Integer> set = new HashSet<>();
+        for(int i = 0; i < Math.min(nums.length,k); i++){
+            if(set.contains(nums[i])){
+                return true;
+            }
+            set.add(nums[i]);
+        }
+
+        for(int i = k; i < nums.length; i++){
+            if(set.contains(nums[i])){
+                return true;
+            }
+            set.add(nums[i]);
+            set.remove(nums[i - k]);
+        }
+        return false;
+    }
+
+
+
     //BRUTE FORCE APPROACH
     // public boolean containsNearbyDuplicate(int[] nums, int k) {
     //     for(int i = 0; i < nums.length; i++){
@@ -14,26 +35,26 @@ class Solution {
     // }
 
 
-    public boolean containsNearbyDuplicate(int[] nums, int k) {
+    // public boolean containsNearbyDuplicate(int[] nums, int k) {
 
-        HashSet<Integer> set = new HashSet<>();
+    //     HashSet<Integer> set = new HashSet<>();
 
-        for(int right = 0; right < nums.length; right++) {
+    //     for(int right = 0; right < nums.length; right++) {
 
-            // duplicate found
-            if(set.contains(nums[right])) {
-                return true;
-            }
+    //         // duplicate found
+    //         if(set.contains(nums[right])) {
+    //             return true;
+    //         }
 
-            set.add(nums[right]);
+    //         set.add(nums[right]);
 
-            // maintain window size k
-            if(set.size() > k) {
+    //         // maintain window size k
+    //         if(set.size() > k) {
 
-                set.remove(nums[right - k]);
-            }
-        }
+    //             set.remove(nums[right - k]);
+    //         }
+    //     }
 
-        return false;
-    }
+    //     return false;
+    // }
 }
