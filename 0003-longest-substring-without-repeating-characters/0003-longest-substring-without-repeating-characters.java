@@ -36,28 +36,50 @@ class Solution {
 
 
 
-    //SLIDING WINDOW APPROACH
+    // //SLIDING WINDOW APPROACH
+    // public int lengthOfLongestSubstring(String s){
+    //     int max = 0; 
+    //     int i = 0;
+    //     int j = 0;
+    //     Set<Character>set = new HashSet<>();
+    //     while(j < s.length()){
+    //         char c = s.charAt(j);
+
+    //         while(set.contains(c)){
+    //             set.remove(s.charAt(i));
+    //             i++;
+    //         }
+
+    //         set.add(c);
+    //         max = Math.max(max, j - i + 1);
+
+    //         j++;
+    //     }
+    //     return max;
+    // }
+
+
     public int lengthOfLongestSubstring(String s){
         int max = 0; 
-        int i = 0;
+        int i =0;
         int j = 0;
-        Set<Character>set = new HashSet<>();
+        Map<Character, Integer>map = new HashMap<>();
+
         while(j < s.length()){
             char c = s.charAt(j);
 
-            while(set.contains(c)){
-                set.remove(s.charAt(i));
-                i++;
+            if(map.containsKey(c)){
+                if(map.get(c) >= i){
+                    i = map.get(c)+1;
+                }
             }
 
-            set.add(c);
+            map.put(c, j);
             max = Math.max(max, j - i + 1);
-
             j++;
         }
         return max;
     }
-
 }
 
 
