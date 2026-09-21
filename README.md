@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
