@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1859-sorting-the-sentence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0680-valid-palindrome-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1763-longest-nice-substring](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1763-longest-nice-substring) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ssinghjeevan143/DSA_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
